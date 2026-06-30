@@ -1,0 +1,17 @@
+{
+    "regime_bias": "BOTH",
+    "last_updated": "2026-06-24T23:26:28.261357+00:00",
+    "symbols": [
+        "EURUSD",
+        "GBPUSD",
+        "USDJPY",
+        "USDCAD",
+        "AUDUSD",
+        "USDCHF",
+        "EURGBP",
+        "EURCHF",
+        "XAUUSD",
+        "XAGUSD"
+    ],
+    "grounded": true
+}
