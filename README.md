@@ -4,7 +4,7 @@ The main goal for this hackathon was to see if I could abstract away all coding.
 
 At the end of the day, the hackathon was a great learning experience and introduction to algorithmic trading. My final strategy is based on Z-score mean reversion and basically works based on the assumption that extreme price movements in the market are temporary and over time the price of an asset will revert towards its mean. Consequently, we can place buy/sell orders based on downwards/upwards price movements and by doing this enough times make a profit.
 
-I mostly stuck to trading on the 1 minute time frame and the strategy worked for a while until I became greedy and started shorting silver - which gave me some bugger profits until it didn't....
+I mostly stuck to trading on the 1 minute time frame and the strategy worked for a while until I became greedy and started shorting silver - which gave me some bigger profits until it didn't....
 
 ---
 ### Handoff notes for AI context across sessions
